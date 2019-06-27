@@ -3,7 +3,7 @@
 
 A Docker image built with monitoring and profiling tools for performance measurement in a containerized environment.
 
-These tools are listed [below](#installed-tools) and the main purpose is to measure, monitor and/or profile data on MPI and OpenMP programs.
+These tools are listed [below](#installed-tools) and the main purpose is to measure, monitor and/or profile data on MPI and OpenMP applications.
 
 This environment was successfully tested with some applications of the [NAS Parallel Benchmarks](https://nas.nasa.gov/publications/npb.html) set.
 
