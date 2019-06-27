@@ -1,5 +1,5 @@
 # Comment any lines that download/install unnecessary tools
-# Information about the tools or instructions to build and run this image at: https://github.com/lucasroges/container-tools
+# Information about the tools or instructions to build and run this image at https://github.com/lucasroges/container-tools
 
 # OS: debian 9
 FROM debian:9
